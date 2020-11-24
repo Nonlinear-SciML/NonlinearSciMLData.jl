@@ -1,0 +1,13 @@
+name = "NonlinearSciMLData"
+uuid = "78a6b40d-d1fc-45bd-93d0-81a20f0b5661"
+authors = ["David AW Barton"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
